@@ -1,4 +1,4 @@
-# WiCySClubManagement.
+# WiCySClub.
 
 ## Cybersecurity Club Leadership Experience
 
