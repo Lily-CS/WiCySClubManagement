@@ -21,3 +21,4 @@ As the President of the Cybersecurity Club at UW Bothell, I led a team of four o
 
 
 ### Hackathon Planning
+https://github.com/Lily-CS/WiCySClubManagement/tree/main/Hackathon
