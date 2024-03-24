@@ -18,3 +18,6 @@ As the President of the Cybersecurity Club at UW Bothell, I led a team of four o
 - **Project Management:** Utilized Jira to plan, organize, and track events, projects, and workshops, demonstrating proficiency in modern project management tools.
 - **Style Guide Development:** Crafted and implemented a robust style guide to ensure consistent and cohesive development strategies across all club initiatives.
 - **Continuous Improvement:** Identified pain points and implemented an iterative development process, resulting in improved club management, student engagement, efficiency, and outreach.
+
+
+### Hackathon Planning
