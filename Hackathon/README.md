@@ -1,5 +1,9 @@
 # Hackathon Project Folder
 
+## Hackathon DevPost
+https://uwb-hacks-ai.devpost.com/
+
+
 ## Introduction
 
 Welcome to the Hackathon Project of WiCyS club colaboration with ACM Club and Interaction Design Association club Folder! This document provides all the essential information about our hackathon, including the planning process, schedule, budget, grading criteria, and guest speakers.
