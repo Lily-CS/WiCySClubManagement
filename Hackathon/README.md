@@ -1,6 +1,6 @@
 # Hackathon Project Folder
 
-## Hackathon DevPost
+## Hackathon DevPost Link
 https://uwb-hacks-ai.devpost.com/
 
 
